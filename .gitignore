@@ -1,0 +1,11 @@
+target**
+.idea**
+*.iml
+*.ipr
+*.iws
+bin
+build
+out
+.gradle
+cobertura.ser
+.DS_Store
